@@ -1,0 +1,19 @@
+.container {
+  background: url("https://blog.artsper.com/wp-content/uploads/2019/05/Featured-image-1200-x-675-px-min-1.jpg")
+    center center;
+  background-size: cover;
+  padding: 10% 10px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* animation: slide 15s infinite; */
+}

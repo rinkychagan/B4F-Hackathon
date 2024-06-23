@@ -1,0 +1,8 @@
+.photo {
+  background: url("https://assets.bizclikmedia.net/1800/0cadd883d621195d51292e56977bf278:5c773b2d6171ffc4bd4487dcc5a3e272/gettyimages-1317080753.jpg")
+    center center;
+  background-size: cover;
+  padding: 10% 10px;
+  width: 100%;
+  height: 40vh;
+}
