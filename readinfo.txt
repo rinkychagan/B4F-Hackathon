@@ -1,0 +1,12 @@
+create ".env"
+
+and add this 
+MONGODB_URL=mongodb+srv://ecomm:Ecomm@bazar.bluxjlk.mongodb.net/ecomm?retryWrites=true&w=majority&appName=bazar
+
+//metadata
+APP_NAME=bazar
+APP_DESCRIPTION=bazar ecomm app
+
+//
+AUTH_URL=http://localhost:3000
+AUTH_SECRET=secret
