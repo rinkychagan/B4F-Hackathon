@@ -20,4 +20,7 @@
 <li>Other tools: Github, Visual Studio Code</li>
 </ul>
 
+<p>Special thanks to our teachers for their guidance throughout the PowerUp and Bootcamp. </br>
+Thanks to all team members for their hard work and dedication.</p>
+
 Thank you!! :)
